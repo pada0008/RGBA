@@ -31,7 +31,7 @@ public class MainActivity extends Activity implements Observer, SeekBar.OnSeekBa
     // CLASS VARIABLES
     private static final String ABOUT_DIALOG_TAG = "About";
     private static final String LOG_TAG          = "RGBA";
-
+    // test
     // INSTANCE VARIABLES
     // Pro-tip: different naming style; the 'm' means 'member'
     private AboutDialogFragment mAboutDialog;
